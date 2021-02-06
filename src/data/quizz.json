@@ -316,15 +316,15 @@
             "correctAnswer": false
           },
           { 
-            "propositionText": " L'ermite pas net",
+            "propositionText": " L'Ermite pas net",
             "correctAnswer": false
           },
           { 
-            "propositionText": "Red Guy",
+            "propositionText": "Tigre du Midi",
             "correctAnswer": false
           },
           { 
-            "propositionText": "Pink Guy",
+            "propositionText": "Gros Sourcil",
             "correctAnswer": true
           }
         ],
@@ -458,7 +458,7 @@
             "correctAnswer": false
           },
           { 
-            "propositionText": "Il se fait greffer les organes d'un goule",
+            "propositionText": "Il se fait greffer les organes d'une goule",
             "correctAnswer": true
           },
           { 
