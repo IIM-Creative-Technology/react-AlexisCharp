@@ -1,0 +1,21 @@
+.question {
+  max-width: 600px;
+  padding: 20px;
+  background-color: $color3;
+  border-radius: $radius-8;
+
+
+  & .question__title {
+    margin-bottom: 10px;
+
+    font-size: $font-size-title3;
+    font-weight: $bold;
+    text-align: center;
+  }
+}
+
+.answers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

@@ -1,0 +1,32 @@
+@import '../helpers/variables';
+
+.choice {
+  margin-top: 2rem;
+
+  &__title {
+    color: $color3;
+    font-size: $font-size-title2;
+  }
+
+  &__quizzContainer {
+    display: flex;
+    flex-wrap: wrap;
+
+    margin-top: 1.5rem;
+  }
+
+  &__quizz {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 3rem;
+    padding: 10px 10px;
+    min-width: 250px;
+    min-height: 350px;
+
+    border-radius: $radius-8;
+
+    background-color: red;
+  }
+}
+

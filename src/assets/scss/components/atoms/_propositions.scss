@@ -1,0 +1,21 @@
+.answers__proposition {
+  width: 45%;
+  margin-top: 1.5rem;
+  padding: 12px 10px;
+
+  font-size: $font-size-text;
+
+  color: $color4;
+  background-color: $color1;
+  border: $border-proposition;
+  border-radius: $radius-8;
+
+  transition: $transition;
+
+  &:hover {
+    cursor: pointer;
+    color: $color3;
+    background-color: $color4;
+    font-weight: bold;
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Joji's Music",
+    "questions": [
+      {
+        "id": "1",
+        "question": "This is a question",
+        "propositions": [
+          { 
+            "propositionText": "Answer 1",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Answer 2",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Answer 3",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Answer 4",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      }
+    ]
+  }
+]

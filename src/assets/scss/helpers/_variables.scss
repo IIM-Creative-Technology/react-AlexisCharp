@@ -1,0 +1,33 @@
+
+//Couleurs
+$color1: #26B7D4;
+$color2: #2D93FD;
+$color3: #FFF;
+$color4: #050404;
+$gradient: linear-gradient(45deg, $color1, $color2);
+
+//Font Families and Sizes
+$font: 'Lato', sans-serif;
+$font-size-text: 1rem;
+$font-size-title1: 3rem;
+$font-size-title2: 1.8rem;
+$font-size-title3: 1.6rem;
+$font-size-title4: 1.4rem;
+
+// Taille titre
+
+$question-title: 2rem;
+
+// Taille carte
+$question-card: 90%;
+// Police grosseur
+$bold: 700;
+
+
+//Bordures
+$border-proposition: solid 2px $color4;
+$radius-8: 8px;
+
+
+// Transiton
+$transition: all ease .4s;
