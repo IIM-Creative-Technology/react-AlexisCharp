@@ -2,9 +2,16 @@
 @import './helpers/variables';
 @import './components/atoms/propositions';
 @import './components/molecules/questionCard';
+@import './components/organisms/quiz';
+@import './pages/quizzpage';
+@import './pages/notfoundpage';
 
 .app {
   min-height: 100vh;
   background-image: $gradient;
   padding: 10px;
+}
+
+.logo {
+  font-size: $logo;
 }

@@ -6,12 +6,13 @@
   &__title {
     color: $color3;
     font-size: $font-size-title2;
+    text-align: center;
   }
 
   &__quizzContainer {
     display: flex;
+    justify-content: space-around;
     flex-wrap: wrap;
-
     margin-top: 1.5rem;
   }
 
@@ -19,14 +20,16 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-right: 3rem;
+    margin: 5rem 0;
     padding: 10px 10px;
-    min-width: 250px;
-    min-height: 350px;
-
+    min-width: 300px;
+    min-height: 400px;
     border-radius: $radius-8;
-
     background-color: red;
+    transition: $transition;
+    &:hover {
+    filter: grayscale(60%);
+    }
   }
 }
 

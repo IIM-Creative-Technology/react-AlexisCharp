@@ -15,7 +15,7 @@ function Quiz(props) {
   return (
     <div>
       <div>
-        Ceci est la page du Quiz {data.name}
+       <h3 className="quizzName"> Quiz {data.name}</h3> 
         <QuestionCard
           answerClick={answerClick}
           data={data.questions[questionNumber]}

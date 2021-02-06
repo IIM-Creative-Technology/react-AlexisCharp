@@ -4,22 +4,22 @@
     "questions": [
       {
         "id": "1",
-        "question": "This is a question",
+        "question": "En quelle année est sorti l'album Nectar ?",
         "propositions": [
           { 
-            "propositionText": "Answer 1",
+            "propositionText": "2021",
             "correctAnswer": false
           },
           { 
-            "propositionText": "Answer 2",
+            "propositionText": " 2020",
             "correctAnswer": true
           },
           { 
-            "propositionText": "Answer 3",
+            "propositionText": "2018",
             "correctAnswer": false
           },
           { 
-            "propositionText": "Answer 4",
+            "propositionText": "2019",
             "correctAnswer": false
           }
         ],
