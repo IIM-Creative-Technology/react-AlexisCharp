@@ -24,6 +24,449 @@
           }
         ],
         "difficulty": "Easy"
+      },
+      {
+        "id": "2",
+        "question": "De quel challenge Joji est-il l'initiateur ?",
+        "propositions": [
+          { 
+            "propositionText": "Harlem Shake",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": " Tectonik",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Dab",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Shaku Shaku",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "3",
+        "question": "Quel âge a Joji ?",
+        "propositions": [
+          { 
+            "propositionText": "24",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": " 26",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "28",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "30",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "4",
+        "question": "Quel était le pseudo de Joji ?",
+        "propositions": [
+          { 
+            "propositionText": "Grey guy",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": " Blue Guy",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Red Guy",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Pink Guy",
+            "correctAnswer": true
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "5",
+        "question": "Quel est le nom du 1er album de Joji ?",
+        "propositions": [
+          { 
+            "propositionText": "In tongues",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": " Pink Season",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Nectar",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Ballads 1",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "6",
+        "question": "Quel est le style de musique de joji ?",
+        "propositions": [
+          { 
+            "propositionText": "Rock",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": " Classique",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Indie",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "R'n'B",
+            "correctAnswer": true
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "7",
+        "question": "Avant de se lancer dans la musique, que faisait-il ?",
+        "propositions": [
+          { 
+            "propositionText": "commédien",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": " influenceur",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "youtubeur",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "acteur",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "8",
+        "question": "Quel est son compte Instagram ?",
+        "propositions": [
+          { 
+            "propositionText": "@sushitrash",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "@jooji",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "@sushit_rash",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "@joji",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "9",
+        "question": "Quel est le nom de son dernier concert  ?",
+        "propositions": [
+          { 
+            "propositionText": "88rising tour",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "The Extravaganza",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Joji's show",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Nectar tour",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10",
+        "question": "Quel est le nom de sa maison de disque ?",
+        "propositions": [
+          { 
+            "propositionText": "Warner Music",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": " Sonic Music",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "88rising",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Capitol Records",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      }
+    ]
+  },
+
+  {
+    "name": "Mangas",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Que signifie le sigle G.T.O ?",
+        "propositions": [
+          { 
+            "propositionText": "Game To On",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": " Great Teacher Onizuka",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Give The Opportunity",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Gran Turismo Omologato",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "2",
+        "question": "Dans l'attaque des Titans, qui est le meilleur combattant du bataillon d'exploration ?",
+        "propositions": [
+          { 
+            "propositionText": "Livai Ackerman",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Eran Jäger",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Armin Arlet",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Reiner Braun",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "3",
+        "question": "Quel âge a Eikichi Onizuka ?",
+        "propositions": [
+          { 
+            "propositionText": "28",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": " 26",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "24",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "22",
+            "correctAnswer": true
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "4",
+        "question": "Quel est le surnom de Jiraya dans Naruto ?",
+        "propositions": [
+          { 
+            "propositionText": "Tortue Génial",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": " L'ermite pas net",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Red Guy",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Pink Guy",
+            "correctAnswer": true
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "5",
+        "question": "Qui est Kaname Kuran pour Yuki Cross dans le manga Vampire Knight ?",
+        "propositions": [
+          { 
+            "propositionText": "Son ami",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Son frère",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Son père",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Son professeur",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "6",
+        "question": "Combien il y a t-il de démons à queues dans Naruto ?",
+        "propositions": [
+          { 
+            "propositionText": "4",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "7",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "10",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "9",
+            "correctAnswer": true
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "7",
+        "question": "Quel est le nom du Shinigami qui suit Light Yagami dans Death Note ?",
+        "propositions": [
+          { 
+            "propositionText": "Misa",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": " Rem",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Ryuk",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Shidoo",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "8",
+        "question": "Quel est oeil est le plus puissant dans le Naruto ?",
+        "propositions": [
+          { 
+            "propositionText": "Rinnegan",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Sharingan",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Byakuhan",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Jôgan",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "9",
+        "question": "Où vivent les shinigamis dans Bleach ?",
+        "propositions": [
+          { 
+            "propositionText": "Paradise",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "La Soul Society",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Heaven",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Kingdom of Heaven",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10",
+        "question": "Comment Ken Kaneki devient une goule ?",
+        "propositions": [
+          { 
+            "propositionText": "Il se fait mordre par une goule",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": " Il se fait injecté un sérum",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Il se fait greffer les organes d'un goule",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Il boit le sang d'une goule",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
       }
     ]
   }
