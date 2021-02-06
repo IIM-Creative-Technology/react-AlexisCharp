@@ -6,7 +6,7 @@ import NotFoundPage from '../pages/NotFoundPage';
 function AppRouter() {
   return (
     <Router>
-      <h1>
+      <h1 className="logo">
         <Link to="/">ReaQuizz</Link>
       </h1>
       <Switch>

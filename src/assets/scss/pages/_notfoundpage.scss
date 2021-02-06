@@ -1,0 +1,10 @@
+.error-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    .error__title {
+        font-size: $font-size-title1;
+        text-align: center;
+    }
+}

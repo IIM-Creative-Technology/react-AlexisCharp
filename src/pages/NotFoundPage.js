@@ -1,8 +1,13 @@
 function NotFoundPage() {
   return(
-    <h1>
-      404
-    </h1>
+
+    <div className="error-container">
+    <p className="error__title">
+     <strong> 404 </strong>
+      <br></br>
+      Page not found...
+    </p>
+    </div>
   )
 }
 

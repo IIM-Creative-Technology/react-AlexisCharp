@@ -5,7 +5,7 @@ function QuestionCard(props) {
 
   return (
     <div className="question">
-      <p className="question__title">{ props.data.question }</p>
+      <h4 className="question__title">{ props.data.question }</h4>
       <div className="answers">
         {propositions.map((proposition, i) => {
           return <Proposition key={i} proposition={proposition} answerClick={(correctAnswer) => props.answerClick(correctAnswer)}/>;
