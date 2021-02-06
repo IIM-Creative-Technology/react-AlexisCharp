@@ -234,7 +234,6 @@
       }
     ]
   },
-
   {
     "name": "Mangas",
     "questions": [
@@ -463,6 +462,476 @@
           },
           { 
             "propositionText": "Il boit le sang d'une goule",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "name": "Sport & Loisirs",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Quelle est la périodicité de la coupe du monde de Football ?",
+        "propositions": [
+          { 
+            "propositionText": "1 ans",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "2 ans",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "3 ans",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "4 ans",
+            "correctAnswer": true
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "2",
+        "question": "En 1968, aux Jeux Olympiques de Mexico, quelle athlète féminine est médaillé d'or du 400 mètres ?",
+        "propositions": [
+          { 
+            "propositionText": "Usain Bolt",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Colette Besson",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Lillian Board",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Janet Simpson",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "id": "3",
+        "question": "Que siginifient les initiales GR concernant un sentier balisé ?",
+        "propositions": [
+          { 
+            "propositionText": "Géante route",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Grande randonnée",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Grasse réunion",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Grand retour",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "4",
+        "question": "Combien de joueurs y a-t-il dans une équipe de football ?",
+        "propositions": [
+          { 
+            "propositionText": "9",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": " 10",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "11",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "12",
+            "correctAnswer": true
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "5",
+        "question": "Combien de points sont attribués au vainqueur d'un grand prix de Formule 1",
+        "propositions": [
+          { 
+            "propositionText": "10",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "15",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "20",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "25",
+            "correctAnswer": true
+          }
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "id": "6",
+        "question": "Dans sa variante française, quel jeu de casino se joue sur un cylindre comprenant 37 cases de 0 à 36 ?",
+        "propositions": [
+          { 
+            "propositionText": "Le BlackJack",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "La Roulette",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Le Tirage Français",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "La Plouf",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "7",
+        "question": "Quelle danse de salon, originaire d'Argentine, s'exécute en couple, corps à corps ?",
+        "propositions": [
+          { 
+            "propositionText": "Le tango",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "La salsa",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Le Zouk",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Le flamenco",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "8",
+        "question": "Au Karaté, quelle est la ceinture des débutants ?",
+        "propositions": [
+          { 
+            "propositionText": "Rouge",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Bleu",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Blanche",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Jaune",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "9",
+        "question": "Combien y a-t-il de couloirs de nage dans un bassin olympique ?",
+        "propositions": [
+          { 
+            "propositionText": "6",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "8",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "10",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "12",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10",
+        "question": "Au rugby, combien de points rapport un essai non transformé ?",
+        "propositions": [
+          { 
+            "propositionText": "3",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "5",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "6",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "7",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "name": "Art & Littérature",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Quel personnage de la tragédie grecque tue son père et épouse sa propre mère ?",
+        "propositions": [
+          { 
+            "propositionText": "Prométhée",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Œdipe",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Achille",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Agamemnon",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "2",
+        "question": "Quel dieu égyptien a une tête de chacal ?",
+        "propositions": [
+          { 
+            "propositionText": "Anubis",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Rah",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Bastet",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Osiris",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "3",
+        "question": "Pour quel boxeur Edith Piaf a-t-elle écrit et chanté L'Hymne à l'amour, en 1950 ?",
+        "propositions": [
+          { 
+            "propositionText": "Charles Ezzard",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Mohamed Ali",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Marcel Cerdan",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Rocky Marciano",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "4",
+        "question": "Quel courant musical Django Reinhardt incarne-t-il ?",
+        "propositions": [
+          { 
+            "propositionText": "Le Jazz Manouche",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Le Jazz",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "La samba",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Le Hip-Hop",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "id": "5",
+        "question": "À quel poète doit-on Le Cimetière marin, en 1920",
+        "propositions": [
+          { 
+            "propositionText": "Kostas Karyotakis",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "André Breton",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Paul Valéry",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Philippe Soupault",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "id": "6",
+        "question": "Quel dieu grec était maître de tous les vents ?",
+        "propositions": [
+          { 
+            "propositionText": "Poséidon",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Éole",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Windou",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Aeros",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "7",
+        "question": "Qui signe le tableau Ceci n'est pas une pipe ?",
+        "propositions": [
+          { 
+            "propositionText": "Salvador Dali",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "René Magritte",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "George Bauquier",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Antoine Blanchard",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "id": "8",
+        "question": "Dans le Petit Nicolas, qui est le chouchou de la maîtresse ?",
+        "propositions": [
+          { 
+            "propositionText": "Alceste",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Geoffroy",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Clotaire",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Agnan",
+            "correctAnswer": true
+          }
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "id": "9",
+        "question": "Avec quel instrument Stéphane Grapelli s'illustre-t-il principalement ?",
+        "propositions": [
+          { 
+            "propositionText": "La contrebasse",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Le piano",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "L'harmonica",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "Le violon",
+            "correctAnswer": false
+          }
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10",
+        "question": "À partir de 1796, quelle affection touche le compositeur allemand Ludwig Van Beethoven",
+        "propositions": [
+          { 
+            "propositionText": "L'athérosclérose",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "La cardiomyopathie",
+            "correctAnswer": false
+          },
+          { 
+            "propositionText": "La surdité",
+            "correctAnswer": true
+          },
+          { 
+            "propositionText": "Néphroangiosclérose",
             "correctAnswer": false
           }
         ],
