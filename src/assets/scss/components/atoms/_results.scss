@@ -1,0 +1,27 @@
+.results {
+  width: 500px;
+  padding: 20px;
+  background-color: $color3;
+  border-radius: $radius-8;
+
+  &__text {
+    font-size: $font-size-title3;
+  }
+  
+  &__link {
+    display: block;
+    margin-top: 1rem;
+    padding-left: 20px;
+    transition: $transition;
+    &:hover {
+      color: $color4;
+    }
+  }
+}
+
+
+@media(max-width: 520px) {
+  .results {
+    width: 300px;
+  }
+}

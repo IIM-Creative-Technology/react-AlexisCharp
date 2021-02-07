@@ -1,5 +1,6 @@
 import { useState } from "react";
 import QuestionCard from "../molecules/QuestionCard";
+import Results from "../atoms/Results";
 
 function Quiz(props) {
   const data = props.data;
@@ -27,7 +28,7 @@ function Quiz(props) {
         />
       </div>
       <div className={results ? '' : 'd-none'}>
-        <h3>Composant Results en passant results en props</h3>
+        <h3><Results score={score} /></h3>
       </div>
     </div>
   );
