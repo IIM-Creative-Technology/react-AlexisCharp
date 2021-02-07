@@ -13,7 +13,7 @@ function AppRouter() {
         <Route exact path="/">
           {HomePage}
         </Route>
-        <Route path="/quizz/:id">{QuizPage}</Route>
+        <Route path="/quizz/:id" children={<QuizPage />} />
         <Route path="/*">{NotFoundPage}</Route>
       </Switch>
     </Router>

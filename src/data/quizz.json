@@ -477,7 +477,7 @@
         "question": "Quelle est la périodicité de la coupe du monde de Football ?",
         "propositions": [
           { 
-            "propositionText": "1 ans",
+            "propositionText": "1 an",
             "correctAnswer": false
           },
           { 
