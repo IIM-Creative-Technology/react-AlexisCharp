@@ -10,8 +10,19 @@
   min-height: 100vh;
   background-image: $gradient;
   padding: 10px;
+  position: relative;
 }
 
 .logo {
   font-size: $logo;
+}
+
+.meteoCard {
+  position: absolute;
+  top: 25px;
+  right: 20px;
+
+  color: $color3;
+  font-size: $font-size-text;
+  font-weight: bold;
 }
