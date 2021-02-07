@@ -1,5 +1,5 @@
 .question {
-  max-width: 600px;
+  width: 500px;
   padding: 20px;
   background-color: $color3;
   border-radius: $radius-8;
@@ -17,4 +17,10 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+}
+
+@media(max-width: 520px) {
+  .question {
+    width: 300px;
+  }
 }

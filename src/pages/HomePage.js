@@ -10,8 +10,14 @@ function HomePage() {
         <Link to="/quizz/1" className="choice__quizz" data-name="Joji">
           <h3 className="choice__quizzTitle">Quizz Joji</h3>
         </Link>
-        <Link to="/quizz/2" className="choice__quizz" data-name="Foot">
-          <h3 className="choice__quizzTitle">Quizz Foot</h3>
+        <Link to="/quizz/2" className="choice__quizz" data-name="Mangas">
+          <h3 className="choice__quizzTitle">Quizz Manga</h3>
+        </Link>
+        <Link to="/quizz/3" className="choice__quizz" data-name="SportLoisirs">
+          <h3 className="choice__quizzTitle">Quizz Sport & Loisirs</h3>
+        </Link>
+        <Link to="/quizz/4" className="choice__quizz" data-name="ArtLitterature">
+          <h3 className="choice__quizzTitle">Quizz Art & Littérature</h3>
         </Link>
       
       </div>

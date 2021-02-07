@@ -39,9 +39,10 @@ section {
 }
 
 a {
+  color: $color3;
   text-decoration: none;
 
   &:visited {
-    color: inherit;
+    color: $color3;
   }
 }
