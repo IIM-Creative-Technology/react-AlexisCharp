@@ -555,11 +555,11 @@
           },
           { 
             "propositionText": "11",
-            "correctAnswer": false
+            "correctAnswer": true
           },
           { 
             "propositionText": "12",
-            "correctAnswer": true
+            "correctAnswer": false
           }
         ],
         "difficulty": "Easy"
