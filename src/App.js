@@ -11,7 +11,7 @@ function App() {
   const [meteo, setMeteo] = useState("Fetching Data...");
 
   function geo_success(position) {
-    const request = `http://api.openweathermap.org/data/2.5/weather?units=metric&lat=${position.coords.latitude}&lon=${position.coords.longitude}&appid=${apiKey}`
+    const request = `https://api.openweathermap.org/data/2.5/weather?units=metric&lat=${position.coords.latitude}&lon=${position.coords.longitude}&appid=${apiKey}`
     axios.get(request)
       .then(res => {
         setMeteo(`${res.data.name} : ${Math.round(res.data.main.temp)}°C`)
